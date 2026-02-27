@@ -79,3 +79,11 @@ pip install pandas numpy openpyxl
 Run the Python script:
 hotel_customer_estimator.py
 
+
+Key Skills Demonstrated
+
+- Customer Segmentation
+- Feature Engineering
+- Data Aggregation
+- Rule-Based Prediction
+- Business Analytics Thinking
