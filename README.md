@@ -1,3 +1,8 @@
+Business Problem
+
+A travel company wants to classify customers into segments
+and estimate expected revenue based on booking behavior.
+
 Hotel Customer Estimator
 
 This project builds a **rule-based customer segmentation and price estimation system**
