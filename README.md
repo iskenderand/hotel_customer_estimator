@@ -36,5 +36,8 @@ Feature Engineering
 - Early Booking Score (`EB_Score`)
 - Persona generation (`sales_level_based`)
 
-### 3️⃣ Aggregation
+Aggregation
 Average prices calculated by:
+
+
+
