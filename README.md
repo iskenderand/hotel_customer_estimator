@@ -38,6 +38,44 @@ Feature Engineering
 
 Aggregation
 Average prices calculated by:
+SaleCityName + ConceptName + Seasons
+
+Segmentation
+Customers segmented using:
+pd.qcut()
 
 
+Segments:
+- **A** → Highest value customers
+- **B**
+- **C**
+- **D** → Lowest value customers
+
+---
+
+Example Persona
+ANTALYA_HERŞEY DAHIL_HIGH
+
+
+System estimates:
+- Customer segment
+- Expected average price
+
+---
+
+Technologies
+
+- Python
+- Pandas
+- NumPy
+
+---
+
+How to Run
+
+```bash
+pip install pandas numpy openpyxl
+
+Run the Python script:
+hotel_customer_estimator.py
 
